@@ -1,10 +1,36 @@
-# GLOBAL ENTERPRISE
-Our Mission is to guide policy and innovation for enterprises as they steer the global market in multiple sectors. We transition operations to the most innovative and cost-effective business intelligence models possible to automate redundant practices. Then, we consult leaders using data science and insights on global trends and industry directives.
-
 <h1 align="center">
   <br>
   <img src="https://github.com/TaoFruit/globalenterprise/blob/gh-pages/images/sliderImages/global.svg" alt="Foco" width="400">
 </h1>
+
+# GLOBAL ENTERPRISE
+Our Mission is to guide policy and innovation for enterprises as they steer the global market in multiple sectors. We transition operations to the most innovative and cost-effective business intelligence models possible to automate redundant practices. Then, we consult leaders using data science and insights on global trends and industry directives. 
+
+#### Global Enterprise streamlines operations with consulting & thought leadership
+
+•	Financial Risk Management
+
+•	System Analysis & Reporting
+
+•	Culture Creation for Enterprises
+
+•	Create International & Governmental Relations
+
+•	Automate Business Processes through Artificial Intelligence
+
+•	Mentor Executives and Communicate for Board of Directors
+
+•	Build Enterprise-Level Policy & Procedure
+
+•	Shift Focus to Profitable Sectors with Asset Retention
+
+•	Set Quarterly Goals and Create Auditing
+
+• We Empower Businesses with Innovative Intelligence
+
+• Procurement Solutions for IT Applications 
+
+•Business & ERP Consulting
 
 
 ## Getting Started
